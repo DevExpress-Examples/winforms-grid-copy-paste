@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DataHelper.cs](./CS/DataHelper.cs) (VB: [DataHelper.vb](./VB/DataHelper.vb))
+* [Main.cs](./CS/Main.cs) (VB: [Main.vb](./VB/Main.vb))
+* [Programcs.cs](./CS/Programcs.cs) (VB: [Programcs.vb](./VB/Programcs.vb))
+<!-- default file list end -->
 # How to implement the Copy/Paste feature
 
 
