@@ -16,9 +16,10 @@ To enable row paste operations in your application, set the [GridView.OptionsCli
 
 <!-- default file list -->
 ## Files to Look At
-
-* [DataHelper.cs](./CS/DataHelper.cs) (VB: [DataHelper.vb](./VB/DataHelper.vb))
 * [Main.cs](./CS/Main.cs) (VB: [Main.vb](./VB/Main.vb))
-* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+
 <!-- default file list end -->
 
+## Documentation
+- [Clipboard](https://docs.devexpress.com/WindowsForms/114874/common-features/clipboard)
+- [ClipboardOptions.PasteMode](https://docs.devexpress.com/CoreLibraries/DevExpress.Export.ClipboardOptions.PasteMode)
