@@ -19,10 +19,6 @@ To enable row paste operations in your application, set the [GridView.OptionsCli
 
 * [DataHelper.cs](./CS/DataHelper.cs) (VB: [DataHelper.vb](./VB/DataHelper.vb))
 * [Main.cs](./CS/Main.cs) (VB: [Main.vb](./VB/Main.vb))
-* [Programcs.cs](./CS/Programcs.cs) (VB: [Programcs.vb](./VB/Programcs.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
 <!-- default file list end -->
-
-
-## See Also
-- [How to implement the paste from clipboard feature](href="https://www.devexpress.com/Support/Center/p/E5201)
 
