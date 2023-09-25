@@ -8,7 +8,7 @@
 
 The [Grid Control](https://docs.devexpress.com/WindowsForms/3455/controls-and-libraries/data-grid) supports row copy and paste operations out-of-the-box. Set the [GridView.OptionsClipboard.PasteMode](https://docs.devexpress.com/CoreLibraries/DevExpress.Export.ClipboardOptions.PasteMode) property to `Update` or `Append` to enable the **Paste from Clipboard** functionality.
 
-Users can copy/paste rows to/from the Clipboard using the `CTRL`+`C` and `CTRL`+`V` (or `Shift`+`Insert`) shortcuts respectively.
+Users can copy/paste rows to/from the Clipboard using the `CTRL`+`C` and `CTRL`+`V` (or `Shift`+`Insert`) shortcuts, respectively.
 
 Use the [GridView.CopyToClipboard](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Base.BaseView.CopyToClipboard) and [GridView.PasteFromClipboard](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridView.PasteFromClipboard) methods to copy/paste rows in code.
 
