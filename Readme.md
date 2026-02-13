@@ -24,7 +24,7 @@ Use the [GridView.CopyToClipboard](https://docs.devexpress.com/WindowsForms/DevE
 - [ClipboardOptions.PasteMode](https://docs.devexpress.com/CoreLibraries/DevExpress.Export.ClipboardOptions.PasteMode)
 - [GridOptionsClipboard.AllowCopy](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridOptionsClipboard.AllowCopy)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-copy-paste&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-copy-paste&~~~was_helpful=no)
 
